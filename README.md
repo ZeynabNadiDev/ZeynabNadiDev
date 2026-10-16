@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:00B4DB&height=200&section=header&text=Zeinab%20Nadi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=From%20circuits%20to%20code%20%E2%9A%A1%E2%86%92%F0%9F%92%BB&descAlignY=60&descSize=20" width="100%" />
 
@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ZeynabNadiDev&label=Profile%20views&color=512BD4&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=ZeynabNadiDev&label=Profile%20views&color=512BD4&style=for-the-badge" alt="Profile views" />
 
 </div>
 
@@ -16,16 +16,25 @@
 
 ## ⚡ My Story
 
-I used to fight with **circuits and voltages**, now I fight with `NullReferenceException` 🐛
-I build clean, scalable and maintainable backends with modern **.NET**, and I love turning messy problems into well-structured systems.
+I used to fight with **circuits and voltages**; now I fight with `NullReferenceException` 🐛
+
+I build clean, scalable, and maintainable backends with modern **.NET**, and I love turning messy problems into well-structured systems.
 
 ```csharp
 var zeinab = new Developer
 {
     Name = "Zeinab Nadi",
     Background = "Electrical Engineering",
-    Stack = new[] { "C#", ".NET", "ASP.NET Core", "EF Core", "SQL Server", "RabbitMQ" },
-    Hobbies = new[] { "Books 📚", "Santur 🎶", "Sudoku 🧩", "Movies 🎬" },
+    Stack = new[]
+    {
+        "C#", ".NET", "ASP.NET Core",
+        "EF Core", "SQL Server", "RabbitMQ"
+    },
+    Hobbies = new[]
+    {
+        "Books 📚", "Santur 🎶",
+        "Sudoku 🧩", "Movies 🎬"
+    },
     FuelType = "Coffee ☕",
     CurrentlyLearning = "Always something new"
 };
@@ -33,11 +42,11 @@ var zeinab = new Developer
 
 ---
 
-## 🛠️ Tools I use daily
+## 🛠️ Tools I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,git,github,postman,rabbitmq,visualstudio" height="48" />
-  <img src="assets/sqlserver.svg" height="48" alt="SQL Server" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,git,github,postman,rabbitmq,visualstudio" height="48" alt="C#, .NET, Docker, Git, GitHub, Postman, RabbitMQ and Visual Studio" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="48" width="48" alt="Microsoft SQL Server" />
 </p>
 
 ---
@@ -45,17 +54,21 @@ var zeinab = new Developer
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ZeynabNadiDev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ZeynabNadiDev&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ZeynabNadiDev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ZeynabNadiDev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 📬 If you want to connect
+## 📬 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/zeinab-nadi-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:znadi05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/zeinab-nadi-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:znadi05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:00B4DB&height=120&section=footer" width="100%" />
