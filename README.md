@@ -36,22 +36,8 @@ var zeinab = new Developer
 ## 🛠️ Tools I use daily
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,git,github,postman,rabbitmq,visualstudio" />
-  <br/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-</p>
-
----
-
-## 🚀 Featured Project
-
-<p align="center">
-  <b>💰 FinTracker</b><br/>
-  A personal finance manager that knows where your money went (even when you don't 😅)<br/><br/>
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clean_Architecture-2E7D32?style=flat-square" />
-  <img src="https://img.shields.io/badge/Modular_Monolith-1565C0?style=flat-square" />
-  <img src="https://img.shields.io/badge/DDD-6A1B9A?style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,git,github,postman,rabbitmq,visualstudio" height="48" />
+  <img src="assets/sqlserver.svg" height="48" alt="SQL Server" />
 </p>
 
 ---
@@ -61,10 +47,6 @@ var zeinab = new Developer
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ZeynabNadiDev&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ZeynabNadiDev&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZeynabNadiDev&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
 ---
